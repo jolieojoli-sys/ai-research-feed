@@ -1,0 +1,11 @@
+{
+  "title": "AI Research Feed",
+  "subtitle": "Latest AI research papers with intelligent summaries",
+  "refresh": "Refresh",
+  "summarize": "Summarize",
+  "loading": "Loading...",
+  "error": "Something went wrong",
+  "papersFrom": "Papers from {source}",
+  "arxiv": "ArXiv",
+  "huggingface": "HuggingFace"
+}
